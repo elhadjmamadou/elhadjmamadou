@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  🎯 <b>Ingénieur backend</b> passionné de technologies open source, d’architecture logicielle et de systèmes robustes.<br>
-  🚀 J’aime transformer des idées ambitieuses en solutions fiables, scalables et performantes.<br>
-  🌱 En perpétuelle évolution, l’apprentissage fait partie de mon ADN.<br>
+  🎯 <b>Ingénieur backend</b> passionné par les technologies open source, l’architecture logicielle et la création de systèmes fiables.<br>
+  🚀 J’aime transformer des idées ambitieuses en solutions scalables et performantes.<br>
+  🌱 Toujours en quête d’apprentissage, l’évolution permanente fait partie de mon ADN.<br>
 </p>
 
 ---
